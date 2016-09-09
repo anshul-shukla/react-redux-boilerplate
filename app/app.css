@@ -1,0 +1,14 @@
+#gridWrapper{
+  height: 600px;
+  width: 600px;
+  display: inline-block;
+}
+.grid-item {
+    width: 38px;
+    height: 38px;
+    display: inline-block;
+    background-color: #FFC107;
+    border: 1px solid #FF9800;
+    float: left;
+    cursor: pointer;
+}
